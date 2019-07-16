@@ -1,0 +1,6 @@
+1. You will start by creating three arrays:
+
+An array that will contain student names
+An array that will store student ID numbers
+An array that will contain student email addresses
+Note Make sure to name your variables appropriately so that it is easy to deduce the information stored in each array and that this information is not singular. e.g.
